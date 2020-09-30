@@ -2,7 +2,7 @@
 
 This repository contains all the data and files necessary to re-run the analyses in:
 
-_Emery JC, Russel TW, Liu Y, et al. The contribution of asymptomatic SARS-CoV-2 infections to transmission - a model-based analysis of the Diamond Princess outbreak. medRxiv Published Online First: 11 May 2020. doi:10.1101/2020.05.07.20093849_
+_Emery JC, Russel TW, Liu Y, et al. 2020. The contribution of asymptomatic SARS-CoV-2 infections to transmission - a model-based analysis of the Diamond Princess outbreak. eLife. doi:https://doi.org/10.7554/eLife.58699_
 
 
 Full details of the study can be found in the main paper and supplementary materials, either on medRxiv or the CMMID repository:
